@@ -1301,13 +1301,13 @@ class PlayState extends MusicBeatState
 
 		switch(SONG.song.toLowerCase()) {
 			case 'snaxburg':
-				healthBar.createFilledBar(0xFF00ffa1, 0xFF50befd);
+				healthBar.createFilledBar(0xFFc1e0eb, 0xFF31b0d1);
 			case 'grumpfoot':
-				healthBar.createFilledBar(0xFF00ffa1, 0xFF50befd);
+				healthBar.createFilledBar(0xFFc1e0eb, 0xFF31b0d1);
 			case 'undersnax':
-				healthBar.createFilledBar(0xFFa21d11, 0xFF116da2);
+				healthBar.createFilledBar(0xFFff9900, 0xFF31b0d1);
 			case 'bungered':
-				healthBar.createFilledBar(0xFFa21d11, 0xFF116da2);
+				healthBar.createFilledBar(0xFFff9900, 0xFF31b0d1);
 		}
 		// healthBar
 		add(healthBar);
