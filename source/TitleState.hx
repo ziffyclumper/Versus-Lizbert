@@ -482,6 +482,7 @@ class TitleState extends MusicBeatState
 			remove(credGroup);
 			skippedIntro = true;
 			FlxG.camera.zoom = 1.3;
+			FlxG.camera.angle = 0;
 			FlxTween.tween(logoBl, {x: 472.85, y: 12.95, angle: 0}, 2, {ease: FlxEase.expoOut, startDelay: 0.5});
 			FlxTween.tween(gfDance, {x: 12.05, y: 140.2}, 2, {ease: FlxEase.expoOut, startDelay: 0.2});
 			FlxTween.tween(FlxG.camera, {zoom: 1}, 2, {ease: FlxEase.expoOut});
