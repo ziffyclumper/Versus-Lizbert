@@ -1058,6 +1058,7 @@ class PlayState extends MusicBeatState
 
 		gf = new Character(400, 130, gfVersion);
 
+		//make sure she isnt scrolling weirdly
 		if(curStage == 'battle') {
 			gf.scrollFactor.set(1, 1);
 		}
@@ -1639,6 +1640,7 @@ class PlayState extends MusicBeatState
 									//fuck you this code suucks
 									new FlxTimer().start(6, function(tmr:FlxTimer) {
 										camFollow.setPosition(fakeBF.getGraphicMidpoint().x - 600, fakeBF.getGraphicMidpoint().y - 150);
+										FlxTween.tween(FlxG.camera, {zoom: 0.9}, 1, {ease: FlxEase.quadOut});
 										grumpers.animation.stop();
 									});
 									new FlxTimer().start(9.23, function(panBF:FlxTimer) {
@@ -1738,6 +1740,8 @@ class PlayState extends MusicBeatState
 															twoweeks.destroy();
 															door.destroy();
 															blackScreen.destroy();
+															FlxG.camera.focusOn(new FlxPoint(gf.getGraphicMidpoint().x, dad.getGraphicMidpoint().y - 150));
+															camFollow.setPosition(gf.getGraphicMidpoint().x, dad.getGraphicMidpoint().y - 150);
 															camHUD.fade(FlxColor.BLACK, 2, true, function() {
 																inCutscene = false;
 																startCountdown();
