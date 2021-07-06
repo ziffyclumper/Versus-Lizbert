@@ -1299,18 +1299,16 @@ class PlayState extends MusicBeatState
 			'health', 0, 2);
 		healthBar.scrollFactor.set();
 
-		switch(curSong.toLowerCase()) {
+		switch(SONG.song.toLowerCase()) {
 			case 'snaxburg':
-				healthBar.createFilledBar(0xFF50befd, 0xFF00ffa1);
+				healthBar.createFilledBar(0xFF00ffa1, 0xFF50befd);
 			case 'grumpfoot':
-				healthBar.createFilledBar(0xFF50befd, 0xFF00ffa1);
+				healthBar.createFilledBar(0xFF00ffa1, 0xFF50befd);
 			case 'undersnax':
 				healthBar.createFilledBar(0xFFa21d11, 0xFF116da2);
 			case 'bungered':
 				healthBar.createFilledBar(0xFFa21d11, 0xFF116da2);
 		}
-
-		healthBar.createFilledBar(0xFFFF0000, 0xFF66FF33);
 		// healthBar
 		add(healthBar);
 
