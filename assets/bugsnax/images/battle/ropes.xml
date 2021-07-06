@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ropes.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RopeWave0000" x="0" y="0" width="1384" height="1371" frameX="-10" frameY="0" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0001" x="0" y="0" width="1384" height="1371" frameX="-10" frameY="0" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0002" x="1385" y="0" width="1386" height="1368" frameX="-8" frameY="-2" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0003" x="1385" y="0" width="1386" height="1368" frameX="-8" frameY="-2" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0004" x="2772" y="0" width="1387" height="1368" frameX="-7" frameY="-2" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0005" x="2772" y="0" width="1387" height="1368" frameX="-7" frameY="-2" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0006" x="4160" y="0" width="1388" height="1364" frameX="-5" frameY="-4" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0007" x="4160" y="0" width="1388" height="1364" frameX="-5" frameY="-4" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0008" x="5549" y="0" width="1389" height="1364" frameX="-5" frameY="-5" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0009" x="5549" y="0" width="1389" height="1364" frameX="-5" frameY="-5" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0010" x="0" y="1372" width="1390" height="1362" frameX="-4" frameY="-6" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0011" x="0" y="1372" width="1390" height="1362" frameX="-4" frameY="-6" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0012" x="1391" y="1372" width="1392" height="1358" frameX="-2" frameY="-8" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0013" x="1391" y="1372" width="1392" height="1358" frameX="-2" frameY="-8" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0014" x="2784" y="1372" width="1393" height="1357" frameX="0" frameY="-9" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0015" x="2784" y="1372" width="1393" height="1357" frameX="0" frameY="-9" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0016" x="4178" y="1372" width="1391" height="1360" frameX="-2" frameY="-7" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0017" x="4178" y="1372" width="1391" height="1360" frameX="-2" frameY="-7" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0018" x="5570" y="1372" width="1391" height="1360" frameX="-2" frameY="-7" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0019" x="5570" y="1372" width="1391" height="1360" frameX="-2" frameY="-7" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0020" x="0" y="2735" width="1390" height="1362" frameX="-4" frameY="-6" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0021" x="0" y="2735" width="1390" height="1362" frameX="-4" frameY="-6" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0022" x="1391" y="2735" width="1388" height="1364" frameX="-5" frameY="-4" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0023" x="1391" y="2735" width="1388" height="1364" frameX="-5" frameY="-4" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0024" x="2780" y="2735" width="1388" height="1366" frameX="-6" frameY="-4" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0025" x="2780" y="2735" width="1388" height="1366" frameX="-6" frameY="-4" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0026" x="4169" y="2735" width="1385" height="1369" frameX="-8" frameY="-2" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0027" x="4169" y="2735" width="1385" height="1369" frameX="-8" frameY="-2" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0028" x="5555" y="2735" width="1385" height="1370" frameX="-9" frameY="-1" frameWidth="1394" frameHeight="1372"/>
+	<SubTexture name="RopeWave0029" x="0" y="4106" width="1384" height="1372" frameX="-10" frameY="0" frameWidth="1394" frameHeight="1372"/>
+</TextureAtlas>

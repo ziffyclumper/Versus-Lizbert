@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfriendTied.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="1104" height="846" frameX="0" frameY="-10" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0001" x="0" y="0" width="1104" height="846" frameX="0" frameY="-10" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0002" x="1105" y="0" width="1098" height="844" frameX="-3" frameY="-12" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0003" x="1105" y="0" width="1098" height="844" frameX="-3" frameY="-12" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0004" x="2204" y="0" width="1098" height="845" frameX="-3" frameY="-11" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0005" x="2204" y="0" width="1098" height="845" frameX="-3" frameY="-11" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0006" x="3303" y="0" width="1098" height="855" frameX="-3" frameY="-1" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0007" x="3303" y="0" width="1098" height="855" frameX="-3" frameY="-1" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0008" x="4402" y="0" width="1098" height="856" frameX="-3" frameY="0" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0009" x="4402" y="0" width="1098" height="856" frameX="-3" frameY="0" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0010" x="5501" y="0" width="1098" height="856" frameX="-3" frameY="0" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0011" x="5501" y="0" width="1098" height="856" frameX="-3" frameY="0" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0012" x="5501" y="0" width="1098" height="856" frameX="-3" frameY="0" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0013" x="6600" y="0" width="1098" height="855" frameX="-3" frameY="-1" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0014" x="6600" y="0" width="1098" height="855" frameX="-3" frameY="-1" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0015" x="0" y="857" width="1098" height="848" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0016" x="0" y="857" width="1098" height="848" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0017" x="1099" y="857" width="1098" height="845" frameX="-3" frameY="-11" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0018" x="1099" y="857" width="1098" height="845" frameX="-3" frameY="-11" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0019" x="2198" y="857" width="1098" height="847" frameX="-3" frameY="-9" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0020" x="2198" y="857" width="1098" height="847" frameX="-3" frameY="-9" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0021" x="3297" y="857" width="1098" height="848" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0022" x="3297" y="857" width="1098" height="848" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0023" x="4396" y="857" width="1098" height="850" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0024" x="4396" y="857" width="1098" height="850" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0025" x="5495" y="857" width="1098" height="855" frameX="-3" frameY="-1" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0026" x="5495" y="857" width="1098" height="855" frameX="-3" frameY="-1" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0027" x="6594" y="857" width="1098" height="854" frameX="-3" frameY="-2" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0028" x="6594" y="857" width="1098" height="854" frameX="-3" frameY="-2" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF Dancing Beat0029" x="0" y="1713" width="1098" height="853" frameX="-3" frameY="-3" frameWidth="1104" frameHeight="856"/>
+	<SubTexture name="GF React0000" x="1099" y="1713" width="1104" height="834" frameX="0" frameY="-15" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0001" x="1099" y="1713" width="1104" height="834" frameX="0" frameY="-15" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0002" x="2204" y="1713" width="1098" height="836" frameX="-3" frameY="-13" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0003" x="2204" y="1713" width="1098" height="836" frameX="-3" frameY="-13" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0004" x="3303" y="1713" width="1098" height="841" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0005" x="3303" y="1713" width="1098" height="841" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0006" x="4402" y="1713" width="1098" height="842" frameX="-3" frameY="-7" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0007" x="4402" y="1713" width="1098" height="842" frameX="-3" frameY="-7" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0008" x="5501" y="1713" width="1098" height="843" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0009" x="5501" y="1713" width="1098" height="843" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0010" x="5501" y="1713" width="1098" height="843" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0011" x="5501" y="1713" width="1098" height="843" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0012" x="5501" y="1713" width="1098" height="843" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0013" x="5501" y="1713" width="1098" height="843" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0014" x="5501" y="1713" width="1098" height="843" frameX="-3" frameY="-6" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0015" x="6600" y="1713" width="1098" height="839" frameX="-3" frameY="-10" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0016" x="6600" y="1713" width="1098" height="839" frameX="-3" frameY="-10" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0017" x="0" y="2567" width="1098" height="841" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0018" x="0" y="2567" width="1098" height="841" frameX="-3" frameY="-8" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0019" x="1099" y="2567" width="1098" height="847" frameX="-3" frameY="-2" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0020" x="1099" y="2567" width="1098" height="847" frameX="-3" frameY="-2" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0021" x="2198" y="2567" width="1098" height="849" frameX="-3" frameY="0" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0022" x="2198" y="2567" width="1098" height="849" frameX="-3" frameY="0" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0023" x="3297" y="2567" width="1098" height="849" frameX="-3" frameY="0" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0024" x="3297" y="2567" width="1098" height="849" frameX="-3" frameY="0" frameWidth="1104" frameHeight="849"/>
+	<SubTexture name="GF React0025" x="3297" y="2567" width="1098" height="849" frameX="-3" frameY="0" frameWidth="1104" frameHeight="849"/>
+</TextureAtlas>

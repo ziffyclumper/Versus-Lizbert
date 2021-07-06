@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gradient.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gradient0000" x="0" y="0" width="1294" height="737" pivotX="0" pivotY="0"/>
+	<SubTexture name="Gradient0001" x="1295" y="0" width="1294" height="737"/>
+	<SubTexture name="Gradient0002" x="2590" y="0" width="1294" height="737"/>
+	<SubTexture name="Gradient0003" x="0" y="738" width="1294" height="737"/>
+	<SubTexture name="Gradient0004" x="1295" y="738" width="1294" height="737"/>
+	<SubTexture name="Gradient0005" x="2590" y="738" width="1294" height="737"/>
+	<SubTexture name="Gradient0006" x="0" y="1476" width="1294" height="737"/>
+	<SubTexture name="Gradient0007" x="0" y="2214" width="1294" height="737"/>
+	<SubTexture name="Gradient0008" x="0" y="2952" width="1294" height="737"/>
+	<SubTexture name="Gradient0009" x="1295" y="1476" width="1294" height="737"/>
+	<SubTexture name="Gradient0010" x="2590" y="1476" width="1294" height="737"/>
+	<SubTexture name="Gradient0011" x="1295" y="2214" width="1294" height="737"/>
+	<SubTexture name="Gradient0012" x="2590" y="2214" width="1294" height="737"/>
+	<SubTexture name="Gradient0013" x="1295" y="2952" width="1294" height="737"/>
+	<SubTexture name="Gradient0014" x="2590" y="2952" width="1294" height="737"/>
+</TextureAtlas>

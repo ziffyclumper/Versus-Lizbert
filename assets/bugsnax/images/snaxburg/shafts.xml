@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shafts.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Twinkle0000" x="0" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0001" x="0" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0002" x="1238" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0003" x="1238" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0004" x="2476" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0005" x="2476" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0006" x="3714" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0007" x="3714" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0008" x="4952" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0009" x="4952" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0010" x="6190" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0011" x="6190" y="0" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0012" x="0" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0013" x="0" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0014" x="1238" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0015" x="1238" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0016" x="2476" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0017" x="2476" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0018" x="3714" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0019" x="3714" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0020" x="4952" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0021" x="4952" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0022" x="6190" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0023" x="6190" y="1706" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0024" x="0" y="3412" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0025" x="0" y="3412" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0026" x="1238" y="3412" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0027" x="1238" y="3412" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0028" x="2476" y="3412" width="1237" height="1705"/>
+	<SubTexture name="Twinkle0029" x="0" y="0" width="1237" height="1705"/>
+</TextureAtlas>

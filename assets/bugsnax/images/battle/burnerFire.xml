@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="burnerFire.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FirePlace0000" x="0" y="0" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+	<SubTexture name="FirePlace0001" x="0" y="0" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+	<SubTexture name="FirePlace0002" x="319" y="0" width="432" height="306"/>
+	<SubTexture name="FirePlace0003" x="319" y="0" width="432" height="306"/>
+	<SubTexture name="FirePlace0004" x="0" y="307" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+	<SubTexture name="FirePlace0005" x="0" y="307" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+	<SubTexture name="FirePlace0006" x="319" y="307" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+	<SubTexture name="FirePlace0007" x="319" y="307" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+	<SubTexture name="FirePlace0008" x="638" y="307" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+	<SubTexture name="FirePlace0009" x="638" y="307" width="318" height="306" frameX="0" frameY="0" frameWidth="432" frameHeight="306"/>
+</TextureAtlas>

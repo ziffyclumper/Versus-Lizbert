@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grumpuses.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bop0000" x="0" y="0" width="2327" height="1115" frameX="-3" frameY="-19" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0001" x="0" y="0" width="2327" height="1115" frameX="-3" frameY="-19" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0002" x="2328" y="0" width="2334" height="1124" frameX="-2" frameY="-8" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0003" x="2328" y="0" width="2334" height="1124" frameX="-2" frameY="-8" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0004" x="4663" y="0" width="2337" height="1127" frameX="-1" frameY="-4" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0005" x="4663" y="0" width="2337" height="1127" frameX="-1" frameY="-4" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0006" x="0" y="1128" width="2339" height="1128" frameX="0" frameY="-2" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0007" x="0" y="1128" width="2339" height="1128" frameX="0" frameY="-2" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0008" x="2340" y="1128" width="2340" height="1128" frameX="0" frameY="-1" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0009" x="2340" y="1128" width="2340" height="1128" frameX="0" frameY="-1" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0010" x="4681" y="1128" width="2340" height="1130" frameX="0" frameY="0" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0011" x="4681" y="1128" width="2340" height="1130" frameX="0" frameY="0" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0012" x="0" y="2259" width="2340" height="1130" frameX="0" frameY="0" frameWidth="2340" frameHeight="1134"/>
+	<SubTexture name="Bop0013" x="0" y="2259" width="2340" height="1130" frameX="0" frameY="0" frameWidth="2340" frameHeight="1134"/>
+</TextureAtlas>

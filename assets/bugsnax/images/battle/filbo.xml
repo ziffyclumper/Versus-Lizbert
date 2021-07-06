@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="filbo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bop0000" x="0" y="0" width="293" height="591" pivotX="0" pivotY="0.15" frameX="0" frameY="-10" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0001" x="0" y="0" width="293" height="591" frameX="0" frameY="-10" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0002" x="298" y="0" width="290" height="593" frameX="0" frameY="-8" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0003" x="298" y="0" width="290" height="593" frameX="0" frameY="-8" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0004" x="593" y="0" width="284" height="600" frameX="0" frameY="-1" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0005" x="593" y="0" width="284" height="600" frameX="0" frameY="-1" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0006" x="882" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0007" x="882" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0008" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0009" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0010" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0011" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0012" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0013" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0014" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0015" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0016" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0017" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0018" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0019" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0020" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0021" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0022" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+	<SubTexture name="Bop0023" x="1170" y="0" width="283" height="601" frameX="0" frameY="0" frameWidth="293" frameHeight="601"/>
+</TextureAtlas>

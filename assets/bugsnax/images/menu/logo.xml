@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo instance 10000" x="0" y="0" width="643" height="169"/>
+	<SubTexture name="Logo instance 10001" x="0" y="0" width="643" height="169"/>
+	<SubTexture name="Logo instance 10002" x="0" y="0" width="643" height="169"/>
+	<SubTexture name="Logo instance 10003" x="0" y="0" width="643" height="169"/>
+	<SubTexture name="Logo instance 10004" x="0" y="0" width="643" height="169"/>
+	<SubTexture name="Logo instance 10005" x="0" y="170" width="643" height="169"/>
+	<SubTexture name="Logo instance 10006" x="0" y="170" width="643" height="169"/>
+	<SubTexture name="Logo instance 10007" x="0" y="170" width="643" height="169"/>
+	<SubTexture name="Logo instance 10008" x="0" y="170" width="643" height="169"/>
+	<SubTexture name="Logo instance 10009" x="0" y="170" width="643" height="169"/>
+	<SubTexture name="Logo instance 10010" x="0" y="340" width="643" height="169"/>
+	<SubTexture name="Logo instance 10011" x="0" y="340" width="643" height="169"/>
+	<SubTexture name="Logo instance 10012" x="0" y="340" width="643" height="169"/>
+	<SubTexture name="Logo instance 10013" x="0" y="340" width="643" height="169"/>
+	<SubTexture name="Logo instance 10014" x="0" y="340" width="643" height="169"/>
+</TextureAtlas>

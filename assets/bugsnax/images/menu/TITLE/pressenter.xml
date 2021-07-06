@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pressenter.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EnterPressed0000" x="0" y="0" width="773" height="121" pivotX="30" pivotY="4.7"/>
+	<SubTexture name="EnterPressed0001" x="0" y="244" width="716" height="113" frameX="-29" frameY="-4" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0002" x="0" y="1068" width="691" height="110" frameX="-41" frameY="-5" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0003" x="718" y="951" width="711" height="112" frameX="-31" frameY="-4" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0004" x="0" y="126" width="720" height="113" frameX="-27" frameY="-4" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0005" x="0" y="598" width="714" height="113" frameX="-30" frameY="-4" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0006" x="721" y="244" width="711" height="112" frameX="-31" frameY="-4" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0007" x="0" y="951" width="713" height="112" frameX="-30" frameY="-4" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0008" x="0" y="716" width="714" height="113" frameX="-30" frameY="-4" frameWidth="773" frameHeight="121"/>
+	<SubTexture name="EnterPressed0009" x="0" y="834" width="714" height="112" frameX="-30" frameY="-4" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="EnterPressed0010" x="0" y="834" width="714" height="112" frameX="-30" frameY="-4" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="EnterPressed0011" x="0" y="834" width="714" height="112" frameX="-30" frameY="-4" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="EnterPressed0012" x="0" y="834" width="714" height="112" frameX="-30" frameY="-4" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="EnterPressed0013" x="0" y="834" width="714" height="112" frameX="-30" frameY="-4" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="EnterPressed0014" x="0" y="834" width="714" height="112" frameX="-30" frameY="-4" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0000" x="719" y="817" width="720" height="107" pivotX="3.1" pivotY="0" frameX="0" frameY="-5" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0001" x="719" y="591" width="719" height="108" frameX="-1" frameY="-5" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0002" x="719" y="704" width="718" height="108" frameX="-1" frameY="-4" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0003" x="719" y="477" width="717" height="109" frameX="-2" frameY="-3" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0004" x="778" y="0" width="716" height="111" frameX="-2" frameY="-2" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0005" x="0" y="834" width="714" height="112" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0006" x="0" y="362" width="714" height="113" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0007" x="778" y="116" width="714" height="111" frameX="-3" frameY="-1" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0008" x="721" y="361" width="714" height="111" frameX="-3" frameY="-1" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0009" x="0" y="480" width="714" height="113" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0010" x="0" y="834" width="714" height="112" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0011" x="0" y="834" width="714" height="112" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0012" x="0" y="834" width="714" height="112" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0013" x="0" y="834" width="714" height="112" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+	<SubTexture name="Idle0014" x="0" y="834" width="714" height="112" frameX="-3" frameY="0" frameWidth="720" frameHeight="113"/>
+</TextureAtlas>
