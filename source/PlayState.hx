@@ -1298,6 +1298,18 @@ class PlayState extends MusicBeatState
 		healthBar = new FlxBar(healthBarBG.x + 4, healthBarBG.y + 4, RIGHT_TO_LEFT, Std.int(healthBarBG.width - 8), Std.int(healthBarBG.height - 8), this,
 			'health', 0, 2);
 		healthBar.scrollFactor.set();
+
+		switch(curSong.toLowerCase()) {
+			case 'snaxburg':
+				healthBar.createFilledBar(0xFF50befd, 0xFF00ffa1);
+			case 'grumpfoot':
+				healthBar.createFilledBar(0xFF50befd, 0xFF00ffa1);
+			case 'undersnax':
+				healthBar.createFilledBar(0xFFa21d11, 0xFF116da2);
+			case 'bungered':
+				healthBar.createFilledBar(0xFFa21d11, 0xFF116da2);
+		}
+
 		healthBar.createFilledBar(0xFFFF0000, 0xFF66FF33);
 		// healthBar
 		add(healthBar);
