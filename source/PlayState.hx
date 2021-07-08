@@ -1300,7 +1300,7 @@ class PlayState extends MusicBeatState
 		healthBar.scrollFactor.set();
 
 		switch(SONG.song.toLowerCase()) {
-			case 'snaxburg':
+			case 'snaxburg' | 'chug':
 				healthBar.createFilledBar(0xFFc1e0eb, 0xFF31b0d1);
 			case 'grumpfoot':
 				healthBar.createFilledBar(0xFFc1e0eb, 0xFF31b0d1);
