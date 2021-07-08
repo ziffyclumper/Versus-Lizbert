@@ -1178,20 +1178,23 @@ class PlayState extends MusicBeatState
 
 		if(curStage == 'snaxburg')
 			add(lightShafts);
-			add(grumpers);
+			if(FlxG.save.data.distractions)
+				add(grumpers);
 
 		if(curStage == 'darkburg')
-			add(grumpers);
 			add(nightVignette);
+			if(FlxG.save.data.distractions)
+				add(grumpers);
 		
 		if(curStage == 'battle')
 			add(battleVignette);
 		
 		if(curStage == 'lair')
 			add(frontRocks);
-			add(snaxDancers);
 			add(ashes);
 			add(nightVignette);
+			if(FlxG.save.data.distractions)
+				add(snaxDancers);
 
 		//the layering
 		//A

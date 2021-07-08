@@ -115,7 +115,7 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollow, null, 0.60 * (60 / FlxG.save.data.fpsCap));
 
-		var versionShit:FlxText = new FlxText(5, FlxG.height - 18, 0, "Versus Lizbert 1.0 - Made Using Kade Engine 1.5.2 - Bugsnax Created by Young Horses - Mod Created by Bugsnax Superfan", 12);
+		var versionShit:FlxText = new FlxText(5, FlxG.height - 18, 0, "Versus Lizbert 1.1 - Made Using Kade Engine 1.5.2 - Bugsnax Created by Young Horses - Mod Created by Bugsnax Superfan", 12);
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		versionShit.updateHitbox();
 		//having it centered looks better imo, fight me
