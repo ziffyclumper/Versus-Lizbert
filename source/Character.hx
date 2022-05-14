@@ -356,8 +356,6 @@ class Character extends FlxSprite
 				addOffset('scared', -4);
 
 				playAnim('idle');
-				
-				barColor = 0xFF7bd6f6;
 
 				flipX = true;
 
@@ -402,8 +400,6 @@ class Character extends FlxSprite
 				addOffset('scared', -4);
 
 				playAnim('idle');
-				
-				barColor = 0xFF7bd6f6;
 
 				flipX = true;
 
@@ -631,6 +627,9 @@ class Character extends FlxSprite
 
 				playAnim('idle');
 		}
+
+		if (curCharacter.startsWith('bf'))
+			barColor = 0xFF31b0d1;
 
 		dance();
 
