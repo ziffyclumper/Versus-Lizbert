@@ -1302,16 +1302,7 @@ class PlayState extends MusicBeatState
 			'health', 0, 2);
 		healthBar.scrollFactor.set();
 
-		switch(SONG.song.toLowerCase()) {
-			case 'snaxburg' | 'chug':
-				healthBar.createFilledBar(0xFFc1e0eb, 0xFF31b0d1);
-			case 'grumpfoot':
-				healthBar.createFilledBar(0xFFc1e0eb, 0xFF31b0d1);
-			case 'undersnax':
-				healthBar.createFilledBar(0xFFff9900, 0xFF31b0d1);
-			case 'bungered':
-				healthBar.createFilledBar(0xFFff9900, 0xFF31b0d1);
-		}
+		healthBar.createFilledBar(dad.barColor, boyfriend.barColor);
 		// healthBar
 		add(healthBar);
 
