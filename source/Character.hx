@@ -14,6 +14,7 @@ class Character extends FlxSprite
 
 	public var isPlayer:Bool = false;
 	public var curCharacter:String = 'bf';
+	public var barColor:Int;
 
 	public var holdTimer:Float = 0;
 	
@@ -27,6 +28,7 @@ class Character extends FlxSprite
 		animOffsets = new Map<String, Array<Dynamic>>();
 		curCharacter = character;
 		this.isPlayer = isPlayer;
+		barColor = isPlayer ? 0xFF66FF33 : 0xFFFF0000;
 
 		var tex:FlxAtlasFrames;
 		antialiasing = true;
@@ -138,6 +140,8 @@ class Character extends FlxSprite
 				addOffset("singRIGHT", -40, -38);
 				addOffset("singDOWN", 0, -44);
 				addOffset("cutscene", 67, 118);
+				
+				barColor = 0xFFc1e0eb;
 
 				playAnim('idle');
 			case 'gf-car':
@@ -618,9 +622,14 @@ class Character extends FlxSprite
 				addOffset("singRIGHT-alt", -46, -50);
 				addOffset("singLEFT-alt", 25, -33);
 				addOffset("singDOWN-alt", -6, -76);
+				
+				barColor = 0xFFff9900;
 
 				playAnim('idle');
 		}
+
+		if (curCharacter.startsWith('bf'))
+			barColor = 0xFF31b0d1;
 
 		dance();
 
